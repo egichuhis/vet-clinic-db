@@ -10,3 +10,8 @@ CREATE TABLE animals
     weight_kg DECIMAL(10, 2)
 );
 
+ALTER TABLE animals
+ADD species VARCHAR(255);
+
+
+
