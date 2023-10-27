@@ -63,7 +63,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/egichuhis/vet-clinic-db.git
 ```
 
 ### Install
@@ -95,7 +95,7 @@ Check PostgreSQL [documentation](https://www.postgresqltutorial.com/) on how to 
 
 - GitHub: [@githubhandle](https://github.com/egichuhis)
 - Twitter: [@twitterhandle](https://twitter.com/egichuhis)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/edwin-gichuhis)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/edwin-gichuhi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
